@@ -6,3 +6,6 @@ ejs
 ejs-mate
 method-override
 
+And run server by node app.js
+
+
